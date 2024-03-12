@@ -1,0 +1,4 @@
+baseURL = 'https://aifeii.github.io/'
+languageCode = 'en-us'
+title = 'AifeiI Blog'
+theme = 'paper'
